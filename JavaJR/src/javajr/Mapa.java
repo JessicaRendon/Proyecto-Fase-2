@@ -155,7 +155,7 @@ public class Mapa{
                                    
                                 }else{
                                    if(mapa[i-1][j].jugador!=null){
-                                       System.out.println("no se puede mover sobre otro jugador");
+                                       System.out.println("No se puede mover sobre otro jugador");
                                    }else{
                                        System.out.println("No se puede salir del mapa");
                                    }
